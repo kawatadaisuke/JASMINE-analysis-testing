@@ -3,9 +3,7 @@
 
  Astrometry analysis code testing with utilising the publicly available tools for JASMINE
 
-# Author 
-
-# AUTHORS
+## AUTHORS
 
 Daisuke Kawata - d dot kawata at ucl dot ac dot uk
 
@@ -13,7 +11,7 @@ Daisuke Kawata - d dot kawata at ucl dot ac dot uk
 
 
 
-# Codes
+## Codes
 
 
 
