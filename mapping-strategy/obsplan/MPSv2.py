@@ -54,7 +54,7 @@ if __name__ == "__main__":
     ans=inout_convexesset(targets,convexesset)
 
     #count number 
-    nans=np.sum(ans,axis=0) #number of obs    
+    nans=np.sum(ans,axis=0) #number of observation for each star after covering the whole fields  
     plot_n_targets(l,b,nans,cmap="CMRmap_r")    
     hist_n_targets(nans)
 

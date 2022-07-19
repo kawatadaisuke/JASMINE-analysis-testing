@@ -7,9 +7,22 @@
 
 ### JASMINE mapping strategy
 
-Exploration of the mapping strategy of the JASMINE Galactic centre field. 
+#### JASMINE mapping simulation and evaluation of astrometric accuracies.
 
-mapping-strategy/obsplan/mapsim.ipynb
+To run the simulation,
+
+``` console
+> cd mapping-strategy/obsplan/
+> python MPSv?.py
+
+```
+
+To make plots, use `Plot_MPS_results.ipynb`
+
+
+#### Exploration of the mapping strategy of the JASMINE Galactic centre field using Kataza-san's mapsim1.py to draw the JASMINE's field of view.
+
+`mapping-strategy/obsplan/mapsim.ipynb`
 
 
 ## AUTHORS
